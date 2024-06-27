@@ -1,0 +1,44 @@
+
+.text-center{
+    text-align:center;
+}
+.container{
+    background-color:aqua;
+    width:15rem;
+    border-radius:5%;
+    padding:12px;
+}
+.mg-auto{
+    margin:auto;
+}
+.flex{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.flex-col{
+    flex-direction:column;
+}
+.button{
+    width:3rem;
+    padding:12px;
+    margin-top: 7px;
+    margin:3px;
+    border: 2px solid rgb(98, 220, 237);
+    border-radius:25%;
+    font-weight: 700;
+    font-size:large;
+    color:rgb(255, 255, 255);
+    background-color: rgb(98, 219, 237);
+}
+.input{
+    height:3rem;
+    margin:5px;
+    padding:4px;
+    border:2px solid rgb(98,220,237);
+    border-radius:5px ;
+    color:rgb(94, 92, 92);
+    font-weight:600;
+    font-size:medium;
+}
+
